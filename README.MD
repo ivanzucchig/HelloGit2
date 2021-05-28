@@ -1,3 +1,6 @@
+# version 1.2.1
+
+
 # Tipos de formatos, cabeceras y modo enfasis (#=h1)
 
 iniciamos a escribir con
